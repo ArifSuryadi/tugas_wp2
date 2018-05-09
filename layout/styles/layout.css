@@ -14,7 +14,7 @@ File: Layout CSS
 @import url("featured_slide.css");
 
 html{overflow-y:scroll;}
-body{margin:0; padding:0; color:#1e1e1e; background-color:#1e1e1e; font-size:12px; font-family:Georgia, "Times New Roman", Times, serif;}
+body{margin:0; padding:0; color:yellow; background-color:black; font-size:12px; font-family:Georgia, "Times New Roman", Times, serif;}
 
 .justify{text-align:justify;}
 .bold{font-weight:bold;}
